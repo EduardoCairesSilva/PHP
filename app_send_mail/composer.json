@@ -1,0 +1,16 @@
+{
+    "name": "yandu/app_send_mail",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Yandu\\AppSendMail\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eduardo Caires",
+            "email": "yandudu743@gmail.com"
+        }
+    ],
+    "require": {}
+}
